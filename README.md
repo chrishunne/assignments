@@ -9,3 +9,6 @@ https://github.com/chrishunne/assignments/blob/master/assignment4.ipynb
 
 Assignment 1 R
 https://github.com/chrishunne/assignments/blob/master/Graded_assignment1-checkpoint.ipynb
+
+Assignment 2 R
+https://github.com/chrishunne/assignments/blob/master/Graded_assignment_2-checkpoint.ipynb
