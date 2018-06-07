@@ -12,3 +12,8 @@ https://github.com/chrishunne/assignments/blob/master/Graded_assignment1-checkpo
 
 Assignment 2 R
 https://github.com/chrishunne/assignments/blob/master/Graded_assignment_2-checkpoint.ipynb
+
+Exam student R
+https://github.com/chrishunne/assignments/blob/master/Exam_student%20(1)%20(1).ipynb
+
+Exam June Jupyter
