@@ -17,3 +17,4 @@ Exam student R
 https://github.com/chrishunne/assignments/blob/master/Exam_student%20(1)%20(1).ipynb
 
 Exam June Jupyter
+https://github.com/chrishunne/assignments/blob/master/exam_june_7_2018%20(4)%20(3).ipynb
