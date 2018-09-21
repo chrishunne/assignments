@@ -21,3 +21,5 @@ https://github.com/chrishunne/assignments/blob/master/exam_june_7_2018%20(4)%20(
 
 Exam 21 september
 https://github.com/chrishunne/assignments/blob/master/exam_2_student.ipynb
+Exam 21 September
+https://github.com/chrishunne/assignments/blob/master/exam_Sep_21_2018.ipynb
