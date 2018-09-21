@@ -18,3 +18,6 @@ https://github.com/chrishunne/assignments/blob/master/Exam_student%20(1)%20(1).i
 
 Exam June Jupyter
 https://github.com/chrishunne/assignments/blob/master/exam_june_7_2018%20(4)%20(3).ipynb
+
+Exam 21 september
+https://github.com/chrishunne/assignments/blob/master/exam_2_student.ipynb
